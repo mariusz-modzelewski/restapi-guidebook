@@ -1,0 +1,1 @@
+web: gunicorn interaktywny_przewodnik_miejski.wsgi --log-file -
